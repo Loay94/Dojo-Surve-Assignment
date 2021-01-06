@@ -1,13 +1,13 @@
-package com.display.time;
+package com.dojosurvey.dojo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TimeApplication {
+public class DojoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TimeApplication.class, args);
+        SpringApplication.run(DojoApplication.class, args);
     }
 
 }

@@ -1,10 +1,10 @@
-package com.display.time;
+package com.dojosurvey.dojo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TimeApplicationTests {
+class DojoApplicationTests {
 
     @Test
     void contextLoads() {

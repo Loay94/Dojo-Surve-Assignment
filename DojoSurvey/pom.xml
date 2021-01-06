@@ -8,12 +8,12 @@
         <version>2.4.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.display</groupId>
-    <artifactId>time</artifactId>
+    <groupId>com.dojosurvey</groupId>
+    <artifactId>dojo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>time</name>
-    <description>to display time and date in drfirant pages</description>
+    <name>dojo</name>
+    <description>use POST with session</description>
 
     <properties>
         <java.version>1.8</java.version>

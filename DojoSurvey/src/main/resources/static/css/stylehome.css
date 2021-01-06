@@ -1,0 +1,15 @@
+form{
+    padding: 20px;
+    height: auto;
+    border: 2px solid;
+    margin: 163px 0px 50px 300px;
+    width: 314px;
+    display: inherit;
+}
+#comment {
+    width: 310px;
+    height: 52px;
+}
+select{
+    width: 146px;
+}
